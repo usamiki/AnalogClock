@@ -4,7 +4,7 @@ An Unity asset to display the simple analog clock.
 # Demo Image
 ![readme_demo.png](readme_demo.png)
 
-[Play demo here!](https://t-tukumo.github.io/AnalogClock/WebGLDemo/index.html "Demo")
+[Play demo here!](https://usamiki.github.io/AnalogClock/WebGLDemo/index.html "Demo")
 
 # Features
 - Display the current time.
